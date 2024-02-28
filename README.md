@@ -13,7 +13,7 @@ See [docs](https://comparison-searching.github.io/interpolation-search/index.htm
 
 [![License](https://img.shields.io/github/license/comparison-searching/interpolation-search.svg)](https://raw.githubusercontent.com/comparison-searching/interpolation-search/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@comparison-searching/interpolation-search.svg)](https://www.npmjs.org/package/@comparison-searching/interpolation-search)
-[![Tests](https://img.shields.io/github/workflow/status/comparison-searching/interpolation-search/ci?event=push&label=tests)](https://github.com/comparison-searching/interpolation-search/actions/workflows/ci.yml?query=branch:main)
+[![Tests](https://img.shields.io/github/actions/workflow/status/comparison-searching/interpolation-search/ci.yml?branch=main&event=push&label=tests)](https://github.com/comparison-searching/interpolation-search/actions/workflows/ci.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/librariesio/github/comparison-searching/interpolation-search.svg)](https://github.com/comparison-searching/interpolation-search/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/comparison-searching/interpolation-search.svg)](https://github.com/comparison-searching/interpolation-search/issues)
 [![Downloads](https://img.shields.io/npm/dm/@comparison-searching/interpolation-search.svg)](https://www.npmjs.org/package/@comparison-searching/interpolation-search)
